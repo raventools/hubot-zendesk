@@ -1,7 +1,7 @@
 {
   "name": "hubot-zendesk",
   "description": "Queries Zendesk for information about support tickets",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "William <wjbeckett@gmail.com>",
   "license": "MIT",
 
@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-zendesk.git"
+    "url": "git://github.com/wjbeckett/hubot-zendesk.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-zendesk/issues"
+    "url": "https://github.com/wjbeckett/hubot-zendesk/issues"
   },
 
   "dependencies": {
