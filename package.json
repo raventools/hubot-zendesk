@@ -4,22 +4,20 @@
   "version": "1.0.0",
   "author": "William <wjbeckett@gmail.com>",
   "license": "MIT",
-
-  "keywords": ["hubot","zendesk"],
-
+  "keywords": [
+    "hubot",
+    "zendesk"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/wjbeckett/hubot-zendesk.git"
   },
-
   "bugs": {
     "url": "https://github.com/wjbeckett/hubot-zendesk/issues"
   },
-
   "dependencies": {
     "coffee-script": "~1.6"
   },
-
   "devDependencies": {
     "mocha": "*",
     "chai": "*",
@@ -30,10 +28,11 @@
     "matchdep": "~0.1.2",
     "grunt-contrib-watch": "~0.5.3"
   },
-
   "main": "index.coffee",
-
   "scripts": {
     "test": "grunt test"
+  },
+  "directories": {
+    "test": "test"
   }
 }
