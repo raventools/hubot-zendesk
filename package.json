@@ -1,7 +1,7 @@
 {
   "name": "hubot-zendesk",
   "description": "Queries Zendesk for information about support tickets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "William <wjbeckett@gmail.com>",
   "license": "MIT",
   "keywords": [
