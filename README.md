@@ -10,6 +10,15 @@ In hubot project repo, run:
 
 `npm install hubot-zendesk --save`
 
+Add **hubot-zendesk** to your `package.json` file:
+
+```javascript
+"dependencies": {
+  "hubot": ">= 2.5.1",
+  "hubot-zendesk": "*"
+}
+```
+
 Then add **hubot-zendesk** to your `external-scripts.json`:
 
 ```json
