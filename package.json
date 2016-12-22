@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/wjbeckett/hubot-zendesk.git"
+    "url": "git://github.com/raventools/hubot-zendesk.git"
   },
   "bugs": {
-    "url": "https://github.com/wjbeckett/hubot-zendesk/issues"
+    "url": "https://github.com/raventools/hubot-zendesk/issues"
   },
   "dependencies": {
     "coffee-script": "~1.6"
